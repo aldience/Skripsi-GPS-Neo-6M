@@ -1,4 +1,4 @@
-apakah bisa 
-apakah bisa
-malih
-komputer 
+catatan 
+- jika ingin memulai project baru colab dengan teman lakukan 
+    1.git clone (link-https) 
+    2.git remote add (inisial) (link-ssh)  
