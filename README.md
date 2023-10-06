@@ -5,3 +5,4 @@ MONITORING SEPEDA MOTOR
 
 # SETIAP AKAN MELAKUKAN PULL TERBARU 
 - LAKUKAN HAPUS NODE_MODULE KARENA BEDA EKOSITEM LIBRARY ARGOON2
+- jika akan git add (maka add file/folder yang diubah saja agar nodemodule tidak berubah juga)
