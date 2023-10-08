@@ -2,4 +2,4 @@ catatan
 - jika ingin memulai project baru colab dengan teman lakukan 
     1.git clone (link-https) 
     2.git remote add (inisial) (link-ssh) 
-    3.percobaan malam minggu 
+    3.percobaan malam minggu minggu 12:03
