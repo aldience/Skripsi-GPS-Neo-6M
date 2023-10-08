@@ -3,3 +3,4 @@ catatan
     1.git clone (link-https) 
     2.git remote add (inisial) (link-ssh) 
     3.percobaan malam minggu minggu 12:03
+minggu 12:06
